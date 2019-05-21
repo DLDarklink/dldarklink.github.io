@@ -3,10 +3,19 @@
   "packages": [
     {
       "name": "Terranigma Randomizer Tracker",
+	  "game_name": "Terranigma Randomizer",
       "author": "DLDarklink, Nethraz",
       "version": "1.0.",
       "uid": "terratracker",
       "link": "https://dldarklink.github.io/Terranigma%20Randomizer.zip"
+	  "variants": [
+        {
+          "name": "Major Items & Locations",
+        },
+        {
+          "name": "Items Only",
+        }
+		]
     }
-    ]
+   ]
 }
