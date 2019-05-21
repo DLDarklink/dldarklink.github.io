@@ -11,12 +11,10 @@
       "link": "https://dldarklink.github.io/Terranigma%20Randomizer.zip",
 	  "variants": [
         {
-          "name": "Major Items & Locations",
-		  "flags": [ ]
+          "name": "Major Items & Locations"
         },
         {
           "name": "Items Only"
-		  "flags": [ ]
         }
 		]
     }
