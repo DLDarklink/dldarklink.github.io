@@ -1,5 +1,8 @@
 # dldarklink.github.io
 
+1.0.3
+- Fixed mislabled chest
+
 1.0.2
 - Magic Anchor image improved
 
