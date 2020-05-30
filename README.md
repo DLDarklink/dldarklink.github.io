@@ -1,5 +1,8 @@
 # dldarklink.github.io
 
+1.0.5
+- Changed Starstone Skeleton location to Airsrock
+
 1.0.4
 - Removed Astarika as Starstone location.
 - Addded extra chest to Astarika.
