@@ -1,5 +1,8 @@
 # dldarklink.github.io
 
+1.0.6
+- Added LexHUD
+
 1.0.5
 - Changed Starstone Skeleton location to Airsrock
 
